@@ -1,0 +1,30 @@
+body {
+    background-color: #D4AF37;
+}
+p.three {
+    border-style: dotted;
+    border-width: 10px;
+}
+p.one {
+    border-style: solid;
+    border-color: red green blue yellow;
+} 
+    p.mix {border-style: dotted dashed solid double;}
+p.dashed {border-style: dashed;}
+    
+.web {color:red ;}
+    a:link, a:visited {
+    background-color: #D4AF37;
+    color: black;
+    border: 2px solid #D4AF37 ;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: maroon;
+    color: white;
+}
+
